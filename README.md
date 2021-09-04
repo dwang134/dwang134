@@ -5,8 +5,9 @@
 ## I am a student in Comptuer Programming studying at Seneca College. I am passionate in learning new languages, and web developement.
 
 - 🌱 I'm always learning new things to the best I can
-- 🥅 2021 Goals: Looking hard to land my first job for experience!
+- 📫 You can reach me at **dc.wang840533@gmail.com**
 - 💥 Fun fact: I love music, playing video games, and designing.
+- 🥅 2021 Goals: Looking hard to land my first job for experience!
 
 <br />
 
@@ -51,11 +52,11 @@
 ###  My GitHub Stats
 
 <div align="center">
-<img  alt ="Pandanoxes's Github Stats"src="https://github-readme-stats.vercel.app/api?username=rifxtt&show_icons=true&theme=tokyonight">
+<img  alt ="Pandanoxes's Github Stats"src="https://github-readme-stats.vercel.app/api?username=rifxtt&show_icons=true&theme=Dracula">
 </div>
 <br>
 <div align="center">
-<img alt ="Top Langs"src="https://github-readme-stats.vercel.app/api/top-langs/?username=rifxtt&layout=compact&theme=tokyonight">
+<img alt ="Top Langs"src="https://github-readme-stats.vercel.app/api/top-langs/?username=rifxtt&layout=compact&theme=Dracula">
 </div>
 
 <br>
