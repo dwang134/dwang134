@@ -2,7 +2,7 @@
 
 <hr></hr>
 
-## I am a student in Comptuer Programming studying at Seneca College. I am passionate in learning new languages, and web developement.
+## I am a student in Comptuer Programming studying at Seneca College. I am passionate in learning new coding languages, and web developement.
 
 - 🌱 I'm always learning new things to the best I can
 - 📫 You can reach me at **dc.wang840533@gmail.com**
