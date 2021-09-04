@@ -52,11 +52,11 @@
 ###  My GitHub Stats
 
 <div align="center">
-<img  alt ="Pandanoxes's Github Stats"src="https://github-readme-stats.vercel.app/api?username=rifxtt&show_icons=true&theme=Midnight">
+<img  alt ="Pandanoxes's Github Stats"src="https://github-readme-stats.vercel.app/api?username=rifxtt&show_icons=true&theme=tokyonight">
 </div>
 <br>
 <div align="center">
-<img alt ="Top Langs"src="https://github-readme-stats.vercel.app/api/top-langs/?username=rifxtt&layout=compact&theme=Midnight">
+<img alt ="Top Langs"src="https://github-readme-stats.vercel.app/api/top-langs/?username=rifxtt&layout=compact&theme=tokyonight">
 </div>
 
 <br>
