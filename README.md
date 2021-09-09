@@ -4,9 +4,7 @@
 
 ## I am a postgrad from Seneca College. I am passionate in learning new coding languages, and web developement.
 
-- 🌱 I'm always learning new things to the best I can
 - 📫 You can reach me at **dc.wang840533@gmail.com**.
-- 🥅 2021 Goals: Looking hard to land my first job for experience!
 
 <br />
 
@@ -50,11 +48,11 @@
 ###  My GitHub Stats
 
 <div align="center">
-<img  alt ="DW's Github Stats"src="https://github-readme-stats.vercel.app/api?username={rifxtt}&theme=blue-green">
+<img  alt ="Pandanoxes's Github Stats"src="https://github-readme-stats.vercel.app/api?username=rifxtt&show_icons=true&theme=purple-blue">
 </div>
 <br>
 <div align="center">
-<img alt ="Most Used Langs"src="https://github-readme-stats.vercel.app/api/top-langs/?username={rifxtt}&theme=blue-green">
+<img alt ="Top Langs"src="https://github-readme-stats.vercel.app/api/top-langs/?username=rifxtt&layout=compact&theme=purple-blue">
 </div>
 
 <br>
