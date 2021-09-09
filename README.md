@@ -6,8 +6,6 @@
 
 - 📫 You can reach me at **dc.wang840533@gmail.com**.
 
-<br />
-
 ### Languages and Tools
 
 <!-- Langagues -->
@@ -48,11 +46,11 @@
 ###  My GitHub Stats
 
 <div align="center">
-<img  alt ="Pandanoxes's Github Stats"src="https://github-readme-stats.vercel.app/api?username=rifxtt&show_icons=true&theme=purple-blue">
+<img  alt ="Pandanoxes's Github Stats"src="https://github-readme-stats.vercel.app/api?username=rifxtt&show_icons=true&theme=synthwave">
 </div>
 <br>
 <div align="center">
-<img alt ="Top Langs"src="https://github-readme-stats.vercel.app/api/top-langs/?username=rifxtt&layout=compact&theme=purple-blue">
+<img alt ="Top Langs"src="https://github-readme-stats.vercel.app/api/top-langs/?username=rifxtt&layout=compact&theme=synthwave">
 </div>
 
 <br>
