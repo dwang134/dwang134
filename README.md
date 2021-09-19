@@ -1,6 +1,7 @@
 ### Hello, I'm Dylan 👋
 ### I am a postgrad from Seneca College. I am passionate in learning new coding languages, and web developement.
 <hr></hr>
+
 - 📫 You can reach me at **dc.wang840533@gmail.com**.
 
 ### Languages and Tools
