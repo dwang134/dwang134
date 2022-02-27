@@ -1,5 +1,5 @@
 ### Hello, I'm Dylan 👋
-### I am a web developer based in Toronto, CA.
+### I am a developer based in Toronto, CA. I love learning new languages/frameworks and web development!
 <hr></hr>
 
 - 📫 You can reach me at **dc.wang840533@gmail.com**.
