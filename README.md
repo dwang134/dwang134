@@ -2,7 +2,7 @@
 ### I am a developer based in Toronto, CA. I love learning new languages/frameworks and web development!
 <hr></hr>
 
-📫 You can reach me at **dc.wang840533@gmail.com**.
+📫 You can reach me at **dc.wang547@gmail.com**.
 
 ### Languages and Tools
 
