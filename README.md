@@ -2,7 +2,6 @@
 
 <div align="center">
     <p>I am a developer based in Toronto, CA. I love learning new languages/frameworks and web development! </p>
-    <br><br>
     📫 You can reach me at <b><a rel="nofollow noopener noreferrer" target="_blank" href="mailto:dc.wang547@gmail.com">dc.wang547@gmail.com</b>
 </div>
 
