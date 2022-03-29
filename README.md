@@ -4,9 +4,9 @@
   <samp>
     I am a developer based in Toronto, CA. I love learning new languages/frameworks and web development!
   </samp>
-  <br>
-   📫 You can reach me at **dc.wang547@gmail.com**
 </p>
+
+📫 You can reach me at **dc.wang547@gmail.com**
 
 ###  My GitHub Stats
 
