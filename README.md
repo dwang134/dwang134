@@ -5,9 +5,7 @@
     I am a developer based in Toronto, CA. I love learning new languages/frameworks and web development!
   </samp>
   <br>
-  <samp>
-    You can reach me at <b><a rel="nofollow noopener noreferrer" target="_blank" href="mailto:dc.wang547@gmail.com"></b>
-  </samp>
+   📫 You can reach me at **dc.wang547@gmail.com**
 </p>
 
 ###  My GitHub Stats
