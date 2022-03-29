@@ -8,11 +8,11 @@
 ###  My GitHub Stats
 
 <div align="center">
-<img  alt ="Pandanoxes's Github Stats"src="https://github-readme-stats.vercel.app/api?username=dwang134&show_icons=true&theme=highcontrast">
+<img  alt ="Pandanoxes's Github Stats"src="https://github-readme-stats.vercel.app/api?username=dwang134&show_icons=true">
 </div>
 <br>
 <div align="center">
-<img alt ="Top Langs"src="https://github-readme-stats.vercel.app/api/top-langs/?username=dwang134&layout=compact&theme=highcontrast">
+<img alt ="Top Langs"src="https://github-readme-stats.vercel.app/api/top-langs/?username=dwang134&layout=compact">
 </div>
 
 <br>
