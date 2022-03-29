@@ -14,5 +14,5 @@
 <p>
 <img alt ="Top Langs"src="https://github-readme-stats.vercel.app/api/top-langs/?username=dwang134&layout=compact">
 <p/>
-![dwang134-profile-views-counter](https://user-images.githubusercontent.com/1849174/88077155-9ccc2400-cb83-11ea-8d9c-d18a8b1dc297.png)
+![](https://komarev.com/ghpvc/?username=dwang134)
 </div>
