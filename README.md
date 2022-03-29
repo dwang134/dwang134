@@ -16,5 +16,3 @@
 <p/>
 <a href="https://github.com/kevinjycui" target="_blank"><img alt="deelinwong" src="https://badges.pufler.dev/visits/dwang134/dwang134?logo=GitHub&label=visits&color=success&logoColor=white&style=flat-square"/></a>
 </div>
-<br>
-<br>
