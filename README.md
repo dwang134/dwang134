@@ -1,6 +1,6 @@
 <h3 align="center">Hello, I am <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://web-portfolio-ten.vercel.app/">Dylan Wang</a></b>!</samp></h3>
 
-<p align="center"><br>
+<p align="center">
   <samp>
     I am a developer based in Toronto, CA. I love learning new languages/frameworks and web development!
   </samp>
