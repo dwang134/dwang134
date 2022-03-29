@@ -6,7 +6,7 @@
   </samp>
 </p>
 
-📫 You can reach me at **dc.wang547@gmail.com**
+<div align= "center"> 📫 You can reach me at **dc.wang547@gmail.com** </div>
 
 ###  My GitHub Stats
 
