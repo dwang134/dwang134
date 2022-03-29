@@ -14,5 +14,5 @@
 <p>
 <img alt ="Top Langs"src="https://github-readme-stats.vercel.app/api/top-langs/?username=dwang134&layout=compact">
 <p/>
-<a href="https://github.com/kevinjycui" target="_blank"><img alt="deelinwong" src="https://badges.pufler.dev/visits/dwang134/dwang134?logo=GitHub&label=visits&color=success&logoColor=white&style=flat-square"/></a>
+<a href="https://github.com/dwang134" target="_blank"><img alt="deelinwong" src="https://badges.pufler.dev/visits/dwang134/dwang134?logo=GitHub&label=visits&color=success&logoColor=white&style=flat-square"/></a>
 </div>
