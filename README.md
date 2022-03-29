@@ -6,7 +6,7 @@
   </samp>
 </p>
 
-<div align= "center"> 📫 You can reach me at **dc.wang547@gmail.com** </div>
+<div align= "center"> 📫 You can reach me at <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://web-portfolio-ten.vercel.app/">dc.wang547@gmail.com</b></div>
 
 ###  My GitHub Stats
 
