@@ -11,9 +11,9 @@
 <img  alt ="Pandanoxes's Github Stats"src="https://github-readme-stats.vercel.app/api?username=dwang134&show_icons=true">
 <br>
 <img alt ="Top Langs"src="https://github-readme-stats.vercel.app/api/top-langs/?username=dwang134&layout=compact">
-</div>
+<br>
 <a href="https://github.com/kevinjycui" target="_blank"><img alt="deelinwong" src="https://badges.pufler.dev/visits/dwang134/dwang134?logo=GitHub&label=visits&color=success&logoColor=white&style=flat-square"/></a>
-<div align="center">
+</div>
 <br>
 <br>
 
