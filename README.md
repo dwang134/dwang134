@@ -1,8 +1,12 @@
 <h3 align="center">Hello, I am <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://web-portfolio-ten.vercel.app/">Dylan Wang</a></b>!</samp></h3>
-### I am a developer based in Toronto, CA. I love learning new languages/frameworks and web development!
-<hr></hr>
 
-📫 You can reach me at **dc.wang547@gmail.com**.
+<p align="center"><br>
+  <samp>
+    I am a developer based in Toronto, CA. I love learning new languages/frameworks and web development!
+  </samp>
+  <br>
+   📫 You can reach me at **dc.wang547@gmail.com**.
+</p>
 
 ###  My GitHub Stats
 
