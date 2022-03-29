@@ -6,7 +6,7 @@
   </samp>
   <br>
   <samp>
-    You can reach me at <b><a rel="nofollow noopener noreferrer" target="_blank" href="dc.wang547@gmail.com"></b>
+    You can reach me at <b><a rel="nofollow noopener noreferrer" target="_blank" href="mailto:dc.wang547@gmail.com"></b>
   </samp>
 </p>
 
