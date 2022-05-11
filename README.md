@@ -2,7 +2,7 @@
 
 <div align="center">
     <p>I am a developer based in Toronto, CA. I love web development and learning new languages/frameworks! </p>
-    <p>Reach me at <b><a rel="nofollow noopener noreferrer" target="_blank" href="mailto:dc.wang547@gmail.com">dc.wang547@gmail.com</b>!</p>
+    Reach me at <b><a rel="nofollow noopener noreferrer" target="_blank" href="mailto:dc.wang547@gmail.com">dc.wang547@gmail.com</a>!</b>
 </div>
 
 <h3 align= "center">My Github Stats</h3>
