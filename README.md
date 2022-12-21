@@ -13,6 +13,4 @@
 </p>
 <p>
 <img alt ="Top Langs"src="https://github-readme-stats.vercel.app/api/top-langs/?username=dwang134&layout=compact">
-<p/>
 ![](https://hit.yhype.me/github/profile?user_id=87998792)
-</div>
